@@ -1,0 +1,13 @@
+button {
+    background: blue;
+    color: aliceblue;
+    width: 15vh;
+    height: 6vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
